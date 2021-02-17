@@ -62,11 +62,8 @@ body{
   text-align: left;
   color: hsl(0, 36%, 70%);
   font-size: 16px;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding: 20px 150px;
   line-height: 150%;
-  padding-right: 150px;
-  padding-left: 150px;
 }
 
 .form{
@@ -131,16 +128,13 @@ body{
     width: 100%;
   }
   .content{
-    padding-right: 10%;
-    padding-left: 10%;
+    padding: 0 10%;
   }
   .heading{
-    padding-right: 10%;
-    padding-left: 10%;
+    padding: 0 10%;
   }
   .form{
-    padding-right: 10%;
-    padding-left: 10%;
+    padding: 0 10%;
   }
 
 }
